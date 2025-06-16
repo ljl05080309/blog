@@ -25,7 +25,7 @@
         "@ionic-native/status-bar": "4.1.0",
         "@ionic/storage": "2.0.1",
         "code-push": "^2.0.2-beta",
-        "cordova-android": "^6.2.3",
+        "cordova-android": "^14.0.0",
         "cordova-plugin-code-push": "^1.9.5-beta",
         "cordova-plugin-compat": "^1.1.0",
         "cordova-plugin-console": "^1.0.7",
